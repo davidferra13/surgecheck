@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://davidferra13.github.io/surgecheck/sitemap.xml
